@@ -9,7 +9,7 @@ function FancyHeader() {
   return (
     <>
       <div className='flex justify-between'>
-        <div className='bg-white w-[74%] flex after:content-[""] after:bg-[#e3e3e3] after:relative after:right-[-11px] after:bottom-[4px] after:w-[11px] after:skew-y-[-40deg]'>
+        <div className='bg-white w-[74%] flex after:content-[""] after:bg-[#e3e3e3] after:relative after:right-[-11px] after:bottom-[4px] after:w-[1.5%] after:skew-y-[-40deg]'>
           <div className='flex p-6 gap-8 items-center w-[100%]'>
             <div>
               <Image
